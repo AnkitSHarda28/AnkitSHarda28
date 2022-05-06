@@ -8,6 +8,6 @@ I'm a Software Developer living in Melbourne, Australia.
 <br>Software Development
 <br>React & Next.js
 <br>Blockchain
-<br>I run an E-Commerce Business <a href="Beamso.com"><b>Beamso</b></a>
+<br>I run an E-Commerce Business <a href="https://www.beamso.com/"><b>Beamso</b></a>
 <br>📫 How to reach me: <a href = "mailto: ankitsharda68@gmail.com">Send Email</a>
 <br>😄 Pronouns: he/him
